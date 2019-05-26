@@ -1,4 +1,10 @@
 ---
 label: Teste
 hide_body: true
-fields: []
+fields:
+- name: bla
+  type: text
+  config:
+    required: false
+  label: bla
+  description: Foo bar
