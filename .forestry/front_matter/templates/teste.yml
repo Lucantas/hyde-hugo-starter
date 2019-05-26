@@ -8,3 +8,5 @@ fields:
     required: false
   label: bla
   description: Foo bar
+pages:
+- content/posts/teste.md
